@@ -1,0 +1,19 @@
+{
+  "name": "api-tnb",
+  "version": "1.0.0",
+  "description": "Your app description",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.1",
+      "nodemailer": "^6.6.0" 
+  },
+  "engines": {
+    "node": ">=18.18.2"
+  },
+  "author": "Winter Blvck",
+  "license": "ISC"
+}
